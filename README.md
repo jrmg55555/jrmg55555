@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 🔝 Langagues & Technologies
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmg55555&hide=css" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmg55555&hide=css&theme=tokyonight" />
 
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
