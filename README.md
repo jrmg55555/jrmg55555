@@ -1,40 +1,47 @@
-### Hi there 👋
+# 👋 Olá! Eu sou o Jean Rodrigo Mendes Gabriel
 
-<!--
-**jrmg55555/jrmg55555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor **Back-End** apaixonado por tecnologia, com foco em **aplicações modernas, escaláveis e de alta performance**. Tenho experiência sólida com o ecossistema **Laravel** e diversas ferramentas de automação, testes, bancos de dados e infraestrutura em nuvem.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas
 
-### 🚀 Some Status
+<div style="display: flex; flex-wrap: wrap; gap: 10px">
+  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E5D94?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Pest](https://img.shields.io/badge/Pest-800020?style=for-the-badge)
+![Larastan](https://img.shields.io/badge/Larastan-5D5FEF?style=for-the-badge)
+![Rector](https://img.shields.io/badge/Rector-4D4D4D?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=jrmg55555&hide=issues&count_private=true&show_icons=true&theme=tokyonight" />
+</div>
 
-### 🔝 Langagues & Technologies 
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmg55555&hide=css&theme=tokyonight" />
+## 🧠 Sobre mim
 
-<!--
-<p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-</p>
--->
+- 👨‍💻 Desenvolvedor Back-End na **DomPixel**
+- 🧰 Foco em Laravel, DevOps, bancos relacionais e automação de processos
+- 🧪 Acredito em testes automatizados, arquitetura limpa e entrega contínua
+- 🤝 Colaborativo, organizado e com facilidade em aprender novas tecnologias
+- 🌱 Sempre estudando para evoluir tecnicamente e contribuir com soluções reais
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Rodrigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-rodrigo-mendes-gabriel-516bbb159/)
+[![Email](https://img.shields.io/badge/E--mail-jeanrodrigo30@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanrodrigo30@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jrmg55555-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jrmg55555)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
