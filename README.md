@@ -38,7 +38,7 @@ Desenvolvedor **Back-End** apaixonado por tecnologia, com foco em **aplicações
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Rodrigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-rodrigo-mendes-gabriel-516bbb159/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Rodrigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-rodrigo-mendes-gabriel/)
 [![Email](https://img.shields.io/badge/E--mail-jeanrodrigo30@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanrodrigo30@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jrmg55555-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jrmg55555)
 
