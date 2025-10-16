@@ -28,7 +28,7 @@ Desenvolvedor **Back-End** apaixonado por tecnologia, com foco em **aplicações
 
 ## 🧠 Sobre mim
 
-- 👨‍💻 Desenvolvedor Back-End na **DomPixel**
+- 👨‍💻 Desenvolvedor Back-End
 - 🧰 Foco em Laravel, DevOps, bancos relacionais e automação de processos
 - 🧪 Acredito em testes automatizados, arquitetura limpa e entrega contínua
 - 🤝 Colaborativo, organizado e com facilidade em aprender novas tecnologias
